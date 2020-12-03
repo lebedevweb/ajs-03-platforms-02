@@ -1,0 +1,23 @@
+{
+  "name": "ajs-03-platforms-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lebedevweb/ajs-03-platforms-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebedevweb/ajs-03-platforms-02/issues"
+  },
+  "homepage": "https://github.com/lebedevweb/ajs-03-platforms-02#readme",
+  "dependencies": {
+    "@lebedevweb/ajs-03-platforms": "^1.0.0"
+  }
+}
